@@ -1,0 +1,19 @@
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.exe.config
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.exe
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.pdb
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.csprojResolveAssemblyReference.cache
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear_Interpolation.Properties.Resources.resources
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.csproj.GenerateResource.Cache
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.exe
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.pdb
+D:\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\My_Project.Form6.resources
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.exe.config
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.exe
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.pdb
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.exe
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\bin\Debug\Linear Interpolation.pdb
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\My_Project.Form6.resources
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear_Interpolation.Properties.Resources.resources
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\My Visual Studio Projects\Linear Interpolation\Linear Interpolation\obj\Debug\Linear Interpolation.csproj.CoreCompileInputs.cache
